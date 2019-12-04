@@ -25,6 +25,6 @@ After the dialogue is over Jeff takes your answers into consideration and return
 Jeff uses MySQL to store user's answers so when he gets called again by the same user in 24h since the call before he already knows your answers. Jeff just goes ahead and serves you your options without asking any questions.
 
 ## Preview
-![preview](https://cdn.discordapp.com/attachments/650976758933356548/651708859546730507/lV1skn3ByEnWUBk10NCqVXHuRfCmI70LgZgQiTpTlchACQkAICAEhEK4ERJTDNTJilxAQAkJACEQcARHliAu5OCwEhIAQEALhSkB.png "preview")
-After a repeated request within 24h
+![preview](https://cdn.discordapp.com/attachments/650976758933356548/651708859546730507/lV1skn3ByEnWUBk10NCqVXHuRfCmI70LgZgQiTpTlchACQkAICAEhEK4ERJTDNTJilxAQAkJACEQcARHliAu5OCwEhIAQEALhSkB.png "preview")  
+After a repeated request within 24h  
 ![preview](https://cdn.discordapp.com/attachments/650976758933356548/651709008427876352/unknown.png "preview")
