@@ -7,7 +7,7 @@ Foe example `TOKEN=LOLwOTc0JAW1MjY4MzUyXDEw.XeTI2g.KYshLQdVJhlKqxXDubeq9H-PEP0`
 Add the bot to your own server [Here](https://discordapp.com/api/oauth2/authorize?client_id=650974055268352010&permissions=2048&scope=bot "Here")  
 Join the bot's dev server [Here](https://discord.gg/HQFDQ5a "Here")
 ## Commands  
-(The timeout timer is 10 seconds instead of said 60 seconds for testing purposes)
+(The timeout timer is 10 seconds instead of said 60 seconds for testing purposes)  
 There's two simple commands.
 One of which is the intended `!jeff` command which starts the dialogue process and the other is a dev command `!reset` to delete the developer's user entries from the database.
 ## Dialogue
