@@ -4,7 +4,7 @@ Foe example `TOKEN=LOLwOTc0JAW1MjY4MzUyXDEw.XeTI2g.KYshLQdVJhlKqxXDubeq9H-PEP0`
 
 `npm start` to launch
 ## Live
-Add the bot to your own server [Here](https://discordapp.com/api/oauth2/authorize?client_id=650974055268352010&permissions=2048&scope=bot "Here")
+Add the bot to your own server [Here](https://discordapp.com/api/oauth2/authorize?client_id=650974055268352010&permissions=2048&scope=bot "Here")  
 Join the bot's dev server [Here](https://discord.gg/HQFDQ5a "Here")
 ## Commands
 There's two simple commands.
