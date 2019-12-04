@@ -1,0 +1,32 @@
+{
+  "name": "jeff-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealRemeku/jeff-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealRemeku/jeff-bot/issues"
+  },
+  "homepage": "https://github.com/RealRemeku/jeff-bot#readme",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4"
+  }
+}
